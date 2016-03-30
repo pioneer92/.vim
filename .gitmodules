@@ -1,0 +1,6 @@
+[submodule "a.vim"]
+	path = a.vim
+	url = ./bundle/a.vim
+[submodule "YouCompleteMe"]
+	path = YouCompleteMe
+	url = ./bundle/YouCompleteMe
